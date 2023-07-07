@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "amplifyappcfd59960": {}
+      },
+      "api": {
+        "amplifyapp": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
